@@ -1,10 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was react-router with [Live site link](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can:
+*student can enroll any course at any time
+*student can switch any page without browser Loading
+*used 3fake API. 
+
 
 ### `npm start`
 

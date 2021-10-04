@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "615ad4aef031fc9c57e6776e",
+        "picture": "https://pbs.twimg.com/media/FAchYdnWYAQeTAD.jpg",
+        "name": " John's mills",
+        "email": "johns@gmail.com",
+        "contact": "01930254473",
+        "experience": "5years",
+        "description": "Irure amet duis eu officia laboris magna. Commodo mollit anim ad sit ut velit non velit esse aliqua nisi. Consequat aliquip fugiat laborum est laboris adipisicing exercitation minim eiusmod laboris anim sint velit.\r\n"
+    },
+    {
+        "_id": "615ad4aef031fc9c57e6776e",
+        "picture": "https://www.mpuc.ac.in/wp-content/uploads/2019/11/Prof.-Devaraj-B-K-Principal.jpg",
+        "name": " jimi sen",
+        "email": "jimi@gmail.com",
+        "contact": "01730254473",
+        "experience": "3years",
+        "description": "Irure amet duis eu officia laboris magna. Commodo mollit anim ad sit ut velit non velit esse aliqua nisi. Consequat aliquip fugiat laborum est laboris adipisicing exercitation minim eiusmod laboris anim sint velit.\r\n"
+    },
+    {
+        "_id": "615ad4aef031fc9c57e6776e",
+        "picture": "https://discipline.ku.ac.bd/uploads/faculties/1615878725.jpg",
+        "name": " Maniul Sagor",
+        "email": "mainul@gmail.com",
+        "contact": "01860254473",
+        "experience": "4years",
+        "description": "Irure amet duis eu officia laboris magna. Commodo mollit anim ad sit ut velit non velit esse aliqua nisi. Consequat aliquip fugiat laborum est laboris adipisicing exercitation minim eiusmod laboris anim sint velit.\r\n"
+    },
+    {
+        "_id": "615ad4aef031fc9c57e6776e",
+        "picture": "https://cee.iutoic-dhaka.edu/uploads/img/1616606702_1003.jpg",
+        "name": " Rony Das ",
+        "email": "rony@gmail.com",
+        "contact": "0190830254473",
+        "experience": "2years",
+        "description": "Irure amet duis eu officia laboris magna. Commodo mollit anim ad sit ut velit non velit esse aliqua nisi. Consequat aliquip fugiat laborum est laboris adipisicing exercitation minim eiusmod laboris anim sint velit.\r\n"
+    }
+]

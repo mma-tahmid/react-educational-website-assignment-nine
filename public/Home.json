@@ -1,0 +1,31 @@
+[
+    {
+        "_id": "615ad4aef031fc9c57e6776e",
+        "price": 1095.61,
+        "picture": "https://cdn.mindmajix.com/courses/javascript-training-120620.png",
+        "title": " Basic Javascript course ",
+        "description": "Irure amet duis eu officia laboris magna. Commodo mollit anim ad sit ut velit non velit esse aliqua nisi. Consequat aliquip fugiat laborum est laboris adipisicing exercitation minim eiusmod laboris anim sint velit.\r\n"
+    },
+    {
+        "_id": "615ad4aeba2fdc6132f017d1",
+        "price": 1276.06,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaS7IkyRq7-lohg1A3FZ41Ef87TCgPLEWAhYY9suuqAjsaUaP4vMwt0tJQEYklwLkX_Y&usqp=CAU",
+        "title": "Full Stack Web Development Course",
+        "description": "Enim voluptate labore nisi non officia Lorem exercitation anim sit elit tempor. Aliqua cupidatat nisi aliqua esse incididunt labore dolore elit. Labore laboris eu est irure dolor.\r\n"
+    },
+    {
+        "_id": "615ad4ae69809430330b7c0f",
+        "price": 3891.01,
+        "picture": "https://deepbluetutorials.com/op/2020/06/maxresdefault.jpg",
+        "title": "Basic Python Course",
+        "description": "Aute aute enim adipisicing voluptate nostrud commodo Lorem. Ipsum aliqua fugiat velit amet id mollit fugiat enim veniam officia elit. Ullamco nulla proident velit laborum aliquip incididunt. Est elit occaecat dolore proident quis do laborum sunt et voluptate cillum sint nostrud.\r\n"
+    },
+    {
+        "_id": "615ad4ae42db0ef819d76a0b",
+        "price": 2297.74,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWHjcYaskB_lacXwY5ZQXyklCxch4fQbu1Emloqc830ecrtPUErtyARDzIFylY1Z6SiFE&usqp=CAU",
+        "title": "Digital Marketing",
+        "school": "NORALEX",
+        "description": "Ea proident irure labore et commodo id aliqua ut. Proident quis duis nisi occaecat excepteur officia dolor duis culpa fugiat culpa elit enim. Lorem quis Lorem consectetur in pariatur qui duis exercitation occaecat officia sint veniam. Ullamco adipisicing aliqua est est qui nulla esse cillum quis duis pariatur laboris. Magna enim et aliquip exercitation reprehenderit culpa cupidatat incididunt id sunt.\r\n"
+    }
+]
