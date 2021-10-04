@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was react-router with [Live site link](https://github.com/facebook/create-react-app).
+This project was react-router with [Live site link](https://heuristic-joliot-d4bdb9.netlify.app/).
 
 ## Available Scripts
 
