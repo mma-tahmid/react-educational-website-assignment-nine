@@ -5,9 +5,9 @@ This project was react-router with [Live site link](https://github.com/facebook/
 ## Available Scripts
 
 In the project directory, you can:
-*student can enroll any course at any time
-*student can switch any page without browser Loading
-*used 3fake API. 
+* student can enroll any course at any time
+* student can switch any page without browser Loading
+* used 3fake API. 
 
 
 ### `npm start`
