@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# CourseGuro E-learning Platform
 
 This project was react-router with [Live site link](https://heuristic-joliot-d4bdb9.netlify.app/).
 
