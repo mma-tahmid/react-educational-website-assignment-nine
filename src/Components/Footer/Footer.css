@@ -1,11 +1,15 @@
-.footer-part{
-    
+.footer-part {
+
     margin: 50px;
     padding-left: 100px;
     padding-right: 100px;
 }
 
-.text-color{
+.text-color {
 
     color: coral;
+}
+
+.footer_image {
+    padding-left: 35%;
 }
